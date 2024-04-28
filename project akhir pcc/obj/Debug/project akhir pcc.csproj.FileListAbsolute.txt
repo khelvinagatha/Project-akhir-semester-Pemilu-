@@ -1,0 +1,17 @@
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project akhir pcc.csproj.AssemblyReference.cache
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project akhir pcc.csproj.GenerateResource.cache
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project_akhir_pcc.Register.resources
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project_akhir_pcc.Home.resources
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project_akhir_pcc.Login.resources
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project_akhir_pcc.admin_crud.resources
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project_akhir_pcc.beranda_admin.resources
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project_akhir_pcc.hasil.resources
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project_akhir_pcc.VisiMisi.resources
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project_akhir_pcc.visimisi_admin.resources
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\bin\Debug\project akhir pcc.exe.config
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\bin\Debug\project akhir pcc.exe
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\bin\Debug\project akhir pcc.pdb
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project_akhir_pcc.Properties.Resources.resources
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project akhir pcc.csproj.CoreCompileInputs.cache
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project akhir pcc.exe
+C:\Users\khelv\OneDrive\Dokumen\PCC\project akhir Pcc\project akhir pcc\project akhir pcc\obj\Debug\project akhir pcc.pdb
